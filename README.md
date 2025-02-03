@@ -8,12 +8,12 @@ The issue of affordability of housing and homelessness within the province of On
  
 ## Key Performance Indicators (KPIs)<br>
 1. Average Rental Prices in Ontario
- - Median monthly rent for one-bedroom and two-bedroom apartments in key cities.
+   - Median monthly rent for one-bedroom and two-bedroom apartments in key cities.
 2. Homeownership Affordability Index
- - Percentage of household income required to afford an average home in Ontario.
+   - Percentage of household income required to afford an average home in Ontario.
 3. Number of Households on Affordable Housing Waitlists
- - Total number of households waiting for subsidized housing in Ontario.
+   - Total number of households waiting for subsidized housing in Ontario.
 4. Homelessness Rate per 10,000 Residents
- - Number of individuals experiencing homelessness per 10,000 people.
+   - Number of individuals experiencing homelessness per 10,000 people.
 5. Government Funding for Affordable Housing Programs
- - Total provincial and federal funding allocated to affordable housing initiatives.
+   - Total provincial and federal funding allocated to affordable housing initiatives.
