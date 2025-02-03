@@ -10,26 +10,26 @@ By examining and analyzing the different factors that contribute to affordable h
 The provincial issue of housing affordability and homelessness in Ontario is becoming a crisis as many individuals are being pushed into housing insecurity due to inflation and insufficient earnings. This study is unique because it aims to shed light on the phenomena of Ontario and provide useful information on what features drive this crisis, along with assessing the policies employed by the government towards mitigation of homelessness.<br>
 
 ## Outcomes of this study<br>
-1. Determining the success of the policies
+1. Determining the success of the policies<br>
    – Understanding if the government housing schemes, funded programs, or any subsidy provision are effective or if something else is required to combat this worsening situation. <br>
    
-2. Enabling comprehensive policy responses to housing issues
+2. Enabling comprehensive policy responses to housing issues<br>
    – Finding any policies that will mitigate homelessness and provide affordable housing at the same time instead of revolving around waiting for shelters or other emergency solutions. <br>
   
-3. Guiding urban and public policy
+3. Guiding urban and public policy<br>
    – Allowing leaders to municipal and provincial levels to make precise decisions on funding allocation to remediate housing insecurity.<br>
    
-4. Highlighting the issues of housing inequality
+4. Highlighting the issues of housing inequality<br>
    – Showing how high housing cost and inadequate wage growth coupled with a lack of social welfare are increasing inequality and housing instability as an entire in Ontario.<br>
 
 ## Reseach Objectives:
-to address the issue of accessible housing, further policy changes should be considered, such as greater investment in social housing development or social assistance programs, along with offering motivation backed by data. Improvement regarding affordability housing also requires adequate funding.<br>
+1. to address the issue of accessible housing, further policy changes should be considered, such as greater investment in social housing development or social assistance programs, along with offering motivation backed by data. Improvement regarding affordability housing also requires adequate funding.<br>
    
-Analyze costs related to renting, homeownership, income, and selected cities like Toronto, Hamilton, and Ottawa so that housing affordability patterns across Ontario are better understood.<br>
+2. Analyze costs related to renting, homeownership, income, and selected cities like Toronto, Hamilton, and Ottawa so that housing affordability patterns across Ontario are better understood.<br>
    
-Focus on existing policies to understand if interventions put in place regarding the homelessness crisis are effective in mitigating such issues. Explore and analyze the connection between current policies in place and the rate of homelessness.<br>
+3. Focus on existing policies to understand if interventions put in place regarding the homelessness crisis are effective in mitigating such issues. Explore and analyze the connection between current policies in place and the rate of homelessness.<br>
    
-Examine affordability, social assistance funding, and gaps in availability to find out how housing expenditure and construction works in the vicinity of gaps in social needs security.<br>
+4. Examine affordability, social assistance funding, and gaps in availability to find out how housing expenditure and construction works in the vicinity of gaps in social needs security.<br>
  
 ## Potential Datasets <br>
  
