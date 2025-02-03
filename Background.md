@@ -39,3 +39,11 @@ https://www.toronto.ca/city-government/data-research-maps/research-reports/housi
  
 3. Statistics Canada – A Review of Canadian Homelessness Data
 https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2023004-eng.htm<br>
+
+References <br>
+
+
+https://www.amo.on.ca/sites/default/files/assets/DOCUMENTS/Reports/2025/2025-01-08-EndingChronicHomelessnessinOntario.pdf
+
+https://schoolofcities.utoronto.ca/wp-content/uploads/2024/06/School-of-Cities_Housing-Crisis-Final3.pdf
+
