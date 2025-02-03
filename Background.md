@@ -10,14 +10,14 @@ By examining and analyzing the different factors that contribute to affordable h
 The provincial issue of housing affordability and homelessness in Ontario is becoming a crisis as many individuals are being pushed into housing insecurity due to inflation and insufficient earnings. This study is unique because it aims to shed light on the phenomena of Ontario and provide useful information on what features drive this crisis, along with assessing the policies employed by the government towards mitigation of homelessness.<br>
 
 ## Outcomes of this study<br>
-1. Determining the success of the policies:<br>
- - Understanding if the government housing schemes, funded programs, or any subsidy provision are effective or if something else is            required to combat this worsening situation. <br>
-2. Enabling comprehensive policy responses to housing issues:<br>
- - Finding any policies that will mitigate homelessness and provide affordable housing at the same time instead of revolving around             waiting for shelters or other emergency solutions. <br>
+1. Determining the success of the policies:
+   - Understanding if the government housing schemes, funded programs, or any subsidy provision are effective or if something else is            required to combat this worsening situation. 
+2. Enabling comprehensive policy responses to housing issues:
+   - Finding any policies that will mitigate homelessness and provide affordable housing at the same time instead of revolving around             waiting for shelters or other emergency solutions. 
 3. Guiding urban and public policy:<br>
- - Allowing leaders to municipal and provincial levels to make precise decisions on funding allocation to remediate housing insecurity.         <br>
+   - Allowing leaders to municipal and provincial levels to make precise decisions on funding allocation to remediate housing insecurity.         <br>
 4. Highlighting the issues of housing inequality:<br>
- - Showing how high housing cost and inadequate wage growth coupled with a lack of social welfare are increasing inequality and housing         instability as an entire in Ontario.<br>
+   - Showing how high housing cost and inadequate wage growth coupled with a lack of social welfare are increasing inequality and housing         instability as an entire in Ontario.<br>
 
 ## Reseach Objectives:
 1. to address the issue of accessible housing, further policy changes should be considered, such as greater investment in social housing development or social assistance programs, along with offering motivation backed by data. Improvement regarding affordability housing also requires adequate funding.<br>
