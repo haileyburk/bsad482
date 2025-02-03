@@ -17,3 +17,11 @@ The issue of affordability of housing and homelessness within the province of On
    - Number of individuals experiencing homelessness per 10,000 people.
 5. Government Funding for Affordable Housing Programs
    - Total provincial and federal funding allocated to affordable housing initiatives.
+
+References <br>
+
+
+https://www.amo.on.ca/sites/default/files/assets/DOCUMENTS/Reports/2025/2025-01-08-EndingChronicHomelessnessinOntario.pdf
+
+https://schoolofcities.utoronto.ca/wp-content/uploads/2024/06/School-of-Cities_Housing-Crisis-Final3.pdf
+
