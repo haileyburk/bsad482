@@ -11,16 +11,16 @@ The provincial issue of housing affordability and homelessness in Ontario is bec
 
 ## Outcomes of this study<br>
 1. Determining the success of the policies<br>
-   – Understanding if the government housing schemes, funded programs, or any subsidy provision are effective or if something else is required to combat this worsening situation. <br>
+    – Understanding if the government housing schemes, funded programs, or any subsidy provision are effective or if something else is required to combat this worsening situation. <br>
    
 2. Enabling comprehensive policy responses to housing issues<br>
-   – Finding any policies that will mitigate homelessness and provide affordable housing at the same time instead of revolving around waiting for shelters or other emergency solutions. <br>
+    – Finding any policies that will mitigate homelessness and provide affordable housing at the same time instead of revolving around waiting for shelters or other emergency solutions. <br>
   
 3. Guiding urban and public policy<br>
-   – Allowing leaders to municipal and provincial levels to make precise decisions on funding allocation to remediate housing insecurity.<br>
+    – Allowing leaders to municipal and provincial levels to make precise decisions on funding allocation to remediate housing insecurity.<br>
    
 4. Highlighting the issues of housing inequality<br>
-   – Showing how high housing cost and inadequate wage growth coupled with a lack of social welfare are increasing inequality and housing instability as an entire in Ontario.<br>
+    – Showing how high housing cost and inadequate wage growth coupled with a lack of social welfare are increasing inequality and housing instability as an entire in Ontario.<br>
 
 ## Reseach Objectives:
 1. to address the issue of accessible housing, further policy changes should be considered, such as greater investment in social housing development or social assistance programs, along with offering motivation backed by data. Improvement regarding affordability housing also requires adequate funding.<br>
@@ -33,12 +33,12 @@ The provincial issue of housing affordability and homelessness in Ontario is bec
  
 ## Potential Datasets <br>
  
-Canada Mortgage and Housing Corporation (CMHC) – Housing Data Tables
+1. Canada Mortgage and Housing Corporation (CMHC) – Housing Data Tables
 https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data/data-tables
 (Also has a dataset about consumer debt- mortgage and credit trends)<br>
  
-City of Toronto – Housing and Homelessness Research & Reports
+2. City of Toronto – Housing and Homelessness Research & Reports
 https://www.toronto.ca/city-government/data-research-maps/research-reports/housing-and-homelessness-research-and-reports/shelter-system-flow-data/<br>
  
-Statistics Canada – A Review of Canadian Homelessness Data
+3. Statistics Canada – A Review of Canadian Homelessness Data
 https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2023004-eng.htm<br>
