@@ -10,7 +10,7 @@ By examining and analyzing the different factors that contribute to affordable h
 The provincial issue of housing affordability and homelessness in Ontario is becoming a crisis as many individuals are being pushed into housing insecurity due to inflation and insufficient earnings. This study is unique because it aims to shed light on the phenomena of Ontario and provide useful information on what features drive this crisis, along with assessing the policies employed by the government towards mitigation of homelessness.<br>
 
 ## Outcomes of this study<br>
-1. Determining the success of the policies:<br>
+1. Determining the success of the policies:
 - Understanding if the government housing schemes, funded programs, or any subsidy provision are effective or if something else is            required to combat this worsening situation. <br>
    
 2. Enabling comprehensive policy responses to housing issues:<br>
