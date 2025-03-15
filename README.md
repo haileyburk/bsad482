@@ -2,6 +2,7 @@
 
 [Read Detailed Background Information Here](Background.md)
  
+*By: Hailey Burk*
 ## Executive Summary:<br>
 
 The issue of affordability of housing and homelessness within the province of Ontario has emerged as a significant challenge the region continues to face. With the substantiated rise in housing costs and a continual increase in stagnating wages, a significant portion of individuals and families continue to face complex hurdles in obtaining affordable and stable housing. The problem is highlighted even further as more and more individuals turn to shelters and encampments which is further straining the social services in the region. This project will cover major factors through an analysis of open data including trends in rental prices, homeownership expenses, homelessness figures, and government spending. Hoping to provide information that can shape policy, propose strategies in accessible housing options, and aim at decreasing homelessness by creating informed knowledge out of the research.<br>
