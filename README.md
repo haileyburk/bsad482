@@ -23,8 +23,19 @@ The issue of affordability of housing and homelessness within the province of On
    - Total provincial and federal funding allocated to affordable housing initiatives.
    - Frequency: Yearly?
 
-## References <br>
+## References
 
 Association of Municipalities of Ontario. (2025). Ending chronic homelessness in Ontario: A municipal approach. Association of Municipalities of Ontario. https://www.amo.on.ca/sites/default/files/assets/DOCUMENTS/Reports/2025/2025-01-08-EndingChronicHomelessnessinOntario.pdf
 
 School of Cities, University of Toronto. (2024). Canada’s housing crisis: Challenges and policy solutions. University of Toronto. https://schoolofcities.utoronto.ca/wp-content/uploads/2024/06/School-of-Cities_Housing-Crisis-Final3.pdf
+
+## Analysis 
+
+![Homelessness by major centers](data/plot1.png)
+This plot talks 
+
+
+
+
+
+
