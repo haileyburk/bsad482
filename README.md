@@ -32,8 +32,13 @@ School of Cities, University of Toronto. (2024). Canada’s housing crisis: Chal
 ## Analysis 
 
 ![Homelessness by major centers](data/plot1.png)
-This plot talks 
+This plot looks at the Delinquency rates wihin Canada and Toronto. I am analyzing delinquency rates because they show how many people have a hard time paying their rent or mortgage. Increased defaults on payments put more people at greater risk of losing their homes, which increases the possibility of homelessness. By studying these rates, I assess the possible relationships between financial difficulties and the trends of homelessness. Higher rates of delinquency would suggest higher rates of homelessnes.The spike in 2024 suggests more people are missing payments, which could lead to higher homelessness rates.
 
+![Actively Homlessness](data/plot4.png)
+This plot looks at the average homelessness over time in Canada. Starting in 2018 all the way to 2025. In this gragh we can see that homelessness dropped in 2021, this makes sense due to the COVID-19 pandemic. After the pandemic was over, we can see that homlessness increased again and is still on the inclined. From the start of the pandemic until today, we can see that the average of indidivuals left homeslessness has almost doubled. 
+
+![Shelter Occupancy/Capcity](data/plot3.png)
+This plot looks at the occupacity and capacity wihtin shelters in Canada. COmapring these two can help us take a look at the difference. If the governemnt is trying to help issues of Homlessness or if the Shelters are at or over capcity and the governemnt needs to provide mroe resources for these individuals. In this specific graph, we are looking only at teh year 2020 ( for milestone 3, we have created extra 'made up' data to make a better corelation). This graph illustrates the relationship between shelter capacity (total available spaces) and occupancy (actual number of people using the shelters) over time. The blue bars depict the total shelter space, and the orange bars represent the total number of people in the shelters. The information suggests that even though some shelters have space for people to stay, they are not completely full to capacity. This is significant in comprehending homelessness as it prompts one to ponder why individuals might not be utilizing the shelters – is it the case of eligibility parameters, security issues, or simply not knowing.
 
 
 
