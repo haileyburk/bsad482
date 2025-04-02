@@ -49,3 +49,14 @@ This plot looks at the occupacity and capacity wihtin shelters in Canada. COmapr
    - Common belief would suggest that an increase in utilization of space within a housing facility (occupancy rate) would lead to a decrease in homelessness. The fact that the coefficient is positive means that higher levels of occupancy rate is associated with higher levels of homelessness. This indicates that housing facilities are likely to be at over-capacity and yet, there are still some people who do not have housing options available. Standard Exploratory Data Analysis may show straightforward traces of correlation, but this model demonstrates that higher occupancy rates might not necessarily mean lower rates of homelessness, instead it suggests the scarcity of housing.
  3.	How Mortgage Skipping Payments Can Predict Homelessness
     - It is likely that escalating mortgage delinquency will lead to higher rates of homelessness soon, so mortgage delinquency can act as a bellwether. Increasing mortgage delinquencies may suggest an upcoming spike in homelessness, which could be addressed before it occurs. Delinquency predictive modeling could give decision-makers more time to invest in housing resources ahead of time when some areas have rising delinquency tendencies
+
+## Regression <br> 
+Regression Summary: 
+- Metric	Value
+- R-squared 	0.82099
+- Adjusted R-squared	0.7954187
+- F-Statistic 	32.10426
+- P-value 	5.890030
+
+Regression Coefficients 
+
