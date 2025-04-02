@@ -58,6 +58,9 @@ Regression Summary:
 - F-Statistic 	32.10426
 - P-value 	5.890030
 
+![Regression Coefficients](RegCo.png) <br> 
+
+
 
 ![Correlation Heatmap – Strength of Relationships Among Variables](IMG_6018.png) <br> 
 This correlation heatmap shows the strength and directions of relationships between Mortgage Delinquency, Actively Homeless and Percent Full (Occupancy Rate). The red – blue gradient demonstrates the strength of the correlations, red indicating a strong positive correlation, and blue a strong negative correlation. here is a strong negative correlation between Mortgage Delinquency and Occupancy Rate (-0.86), meaning that higher delinquencies are associated with lower occupancy.There is a moderate positive correlation between Actively Homeless and Occupancy Rate (0.73), implying that areas with more homeless individuals tend to have lower availability of housing.
