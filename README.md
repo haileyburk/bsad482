@@ -58,13 +58,21 @@ Regression Summary:
 - F-Statistic 	32.10426
 - P-value 	5.890030
 
-![Regression Coefficients](RegCo.png) <br> 
+![Regression Coefficients](123.png) <br> 
+To gain more insight into the relationship between housing factors and the issue of homelessness, I used regression analysis with two significant predictors: Mortgage Delinquency (%) and Occupancy Rate (%). The intention was to find that these variables could provide an explanation for the amount of Actively Homeless individuals.
 
+The regression gives us important statistics:
+- R-squared (0.82) notes that roughly 82% of changes in homelessness can be associated with variations of mortgage delinquency and occupancy rates. That’s a strong relationship.
+- The coefficients illustrate the magnitude of the influence each variable has on homelessness. For instance, a mortgage delinquency increase of 1% will result in approximately 110 more people getting homeless. Now, a rise in occupancy rate by 1% will get homelessness to rise by roughly 61.
+- P-values define the statistically significant relationships and, in this case, all p-values are very low (less than 0.05) enabling us to claim with confidence both variables have effect in real life. <br>
 
+The regression confirms the patterns presented in the next two graphs, and quantifies the visual trends.
 
+## Correlation Heatmap – Strength of Relationships Among Variables <br>
 ![Correlation Heatmap – Strength of Relationships Among Variables](IMG_6018.png) <br> 
 This correlation heatmap shows the strength and directions of relationships between Mortgage Delinquency, Actively Homeless and Percent Full (Occupancy Rate). The red – blue gradient demonstrates the strength of the correlations, red indicating a strong positive correlation, and blue a strong negative correlation. here is a strong negative correlation between Mortgage Delinquency and Occupancy Rate (-0.86), meaning that higher delinquencies are associated with lower occupancy.There is a moderate positive correlation between Actively Homeless and Occupancy Rate (0.73), implying that areas with more homeless individuals tend to have lower availability of housing.
 There is a mild negative correlation between Mortgage Delinquency and Actively Homeless (-0.35). There is context numerically to the visual relationships within this heatmap alongside the pair plots, which strengthens the trends observed in the pair plots.
 
+## Pair Plot – Relationship Between Housing and Homelessness Variables <br>
 ![Pair Plot – Relationship Between Housing and Homelessness Variables](IMG_4436.png) <br> 
 In this example, three pivotal variables are laid out: percentage of Mortgage Delinquency, Actively Homeless, and Occupancy Rate- which contributes to the analysis at hand. Value distributions of a particular variable are shown along the diagonals, whereas the relationships between two variables are depicted in out of diagonal scatter plots. For instance, there is a negative correlation noted between Mortgage Delinquency and Occupancy Rate suggesting that delinquency increases, occupancy rates drop. Likewise, the Actively Homeless variable is indicated to have a positive correlation with Occupancy rate, meaning that areas with greater homelessness rates also tend to have higher rates of occupancy in housing. This aids in drawing out trends and relationships between different variables and aid in analyzing housing data.
