@@ -59,4 +59,4 @@ Regression Summary:
 - P-value 	5.890030
 
 Regression Coefficients 
-
+![Correlation plot](IMG_6018.png)
