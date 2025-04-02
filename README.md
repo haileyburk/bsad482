@@ -31,13 +31,13 @@ School of Cities, University of Toronto. (2024). Canada’s housing crisis: Chal
 
 ## Analysis 
 
-![Homelessness by major centers](data/plot1.png)
+![Homelessness by major centers](data/plot1.png) <br> 
 This plot looks at the Delinquency rates wihin Canada and Toronto. I am analyzing delinquency rates because they show how many people have a hard time paying their rent or mortgage. Increased defaults on payments put more people at greater risk of losing their homes, which increases the possibility of homelessness. By studying these rates, I assess the possible relationships between financial difficulties and the trends of homelessness. Higher rates of delinquency would suggest higher rates of homelessnes.The spike in 2024 suggests more people are missing payments, which could lead to higher homelessness rates.
 
-![Actively Homlessness](data/plot4.png)
+![Actively Homlessness](data/plot4.png) <br> 
 This plot looks at the average homelessness over time in Canada. Starting in 2018 all the way to 2025. In this gragh we can see that homelessness dropped in 2021, this makes sense due to the COVID-19 pandemic. After the pandemic was over, we can see that homlessness increased again and is still on the inclined. From the start of the pandemic until today, we can see that the average of indidivuals left homeslessness has almost doubled. 
 
-![Shelter Occupancy/Capcity](data/plot3.png)
+![Shelter Occupancy/Capcity](data/plot3.png) <br> 
 This plot looks at the occupacity and capacity wihtin shelters in Canada. COmapring these two can help us take a look at the difference. If the governemnt is trying to help issues of Homlessness or if the Shelters are at or over capcity and the governemnt needs to provide mroe resources for these individuals. In this specific graph, we are looking only at teh year 2020 ( for milestone 3, we have created extra 'made up' data to make a better corelation). This graph illustrates the relationship between shelter capacity (total available spaces) and occupancy (actual number of people using the shelters) over time. The blue bars depict the total shelter space, and the orange bars represent the total number of people in the shelters. The information suggests that even though some shelters have space for people to stay, they are not completely full to capacity. This is significant in comprehending homelessness as it prompts one to ponder why individuals might not be utilizing the shelters – is it the case of eligibility parameters, security issues, or simply not knowing.
 
 
@@ -58,5 +58,10 @@ Regression Summary:
 - F-Statistic 	32.10426
 - P-value 	5.890030
 
-Regression Coefficients 
-![Correlation plot](IMG_6018.png)
+
+![Correlation Heatmap – Strength of Relationships Among Variables](IMG_6018.png) <br> 
+This correlation heatmap shows the strength and directions of relationships between Mortgage Delinquency, Actively Homeless and Percent Full (Occupancy Rate). The red – blue gradient demonstrates the strength of the correlations, red indicating a strong positive correlation, and blue a strong negative correlation. here is a strong negative correlation between Mortgage Delinquency and Occupancy Rate (-0.86), meaning that higher delinquencies are associated with lower occupancy.There is a moderate positive correlation between Actively Homeless and Occupancy Rate (0.73), implying that areas with more homeless individuals tend to have lower availability of housing.
+There is a mild negative correlation between Mortgage Delinquency and Actively Homeless (-0.35). There is context numerically to the visual relationships within this heatmap alongside the pair plots, which strengthens the trends observed in the pair plots.
+
+![Pair Plot – Relationship Between Housing and Homelessness Variables](IMG_4436.png) <br> 
+In this example, three pivotal variables are laid out: percentage of Mortgage Delinquency, Actively Homeless, and Occupancy Rate- which contributes to the analysis at hand. Value distributions of a particular variable are shown along the diagonals, whereas the relationships between two variables are depicted in out of diagonal scatter plots. For instance, there is a negative correlation noted between Mortgage Delinquency and Occupancy Rate suggesting that delinquency increases, occupancy rates drop. Likewise, the Actively Homeless variable is indicated to have a positive correlation with Occupancy rate, meaning that areas with greater homelessness rates also tend to have higher rates of occupancy in housing. This aids in drawing out trends and relationships between different variables and aid in analyzing housing data.
