@@ -10,18 +10,13 @@ The issue of affordability of housing and homelessness within the province of On
 ## Key Performance Indicators (KPIs)<br>
 1. Mortgage and Consumer Credit Trends
    - Rising mortgage delinquency and foreclosure rates contribute to higher homelessness rates.
-
-3. Homeownership Affordability Index
-   - Percentage of household income required to afford an average home in Ontario.
-   - Frequency: Monthly??
 4. Number of Households on Affordable Housing Waitlists
    - Total number of households waiting for subsidized housing in Ontario.
 5. Homelessness Rate per 10,000 Residents
    - Number of individuals experiencing homelessness per 10,000 people.
-   - Frequency: Monthly??
 6. Government Funding for Affordable Housing Programs
    - Total provincial and federal funding allocated to affordable housing initiatives.
-   - Frequency: Yearly?
+ 
 
 ## References
 
@@ -76,3 +71,6 @@ There is a mild negative correlation between Mortgage Delinquency and Actively H
 ## Pair Plot – Relationship Between Housing and Homelessness Variables <br>
 ![Pair Plot – Relationship Between Housing and Homelessness Variables](IMG_4436.png) <br> 
 In this example, three pivotal variables are laid out: percentage of Mortgage Delinquency, Actively Homeless, and Occupancy Rate- which contributes to the analysis at hand. Value distributions of a particular variable are shown along the diagonals, whereas the relationships between two variables are depicted in out of diagonal scatter plots. For instance, there is a negative correlation noted between Mortgage Delinquency and Occupancy Rate suggesting that delinquency increases, occupancy rates drop. Likewise, the Actively Homeless variable is indicated to have a positive correlation with Occupancy rate, meaning that areas with greater homelessness rates also tend to have higher rates of occupancy in housing. This aids in drawing out trends and relationships between different variables and aid in analyzing housing data.
+
+## Conclusion <br>
+The objective of this project was to research the ongoing housing crisis in Ontario and the interconnections between mortgage delinquency, shelter occupancy, and rising homelessness. The analysis indicates these two variables not only have a significant correlation, but the evidence suggests they are predictors of homelessness. To elaborate, it was observed that a 1% increase in mortgage delinquency in Ontario translates to roughly 110 more individuals becoming homeless, while a 1% increase in occupancy rate leads to an approximate 61 more people becoming homeless. It can therefore be concluded that an increase in financial strain and overcrowding housing results to marginalization of the already vulnerable individuals. Analysis also showed that increased occupancy levels do not always indicate an improvement in housing stability. It is proposed that the occupants of these households are not receiving the necessary aids and the housing resources in question are operating at, or near, full capacity. These statements were further verified through correlation data and the visual trends observed in our pair plots and heatmaps.Taken together, these findings underscore the fundamental necessity of specific policy measures – not only increasing housing supply, but also dealing with antecedent financial issues, like defaulting and the relative cost of housing. Making housing cheaper, bettering access to emergency shelters, and building support for at-risk homeowners would help greatly. With this sort of analysis, we understand the problem areas and next moves needed to work towards a more just housing system in Ontario
